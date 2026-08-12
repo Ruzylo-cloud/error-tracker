@@ -1,4 +1,5 @@
 # error-tracker
+![CI](https://github.com/FerrowAI/error-tracker/actions/workflows/ci.yml/badge.svg)
 
 Error capture with automatic grouping, rate limiting, and breadcrumb history. Identical logical errors (same message + normalized stack frame) are grouped together regardless of where they occur.
 
