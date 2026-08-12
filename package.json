@@ -1,1 +1,1 @@
-{"name":"error-tracker","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{"name":"error-tracker","version":"1.0.0","description":"Error capture and grouping with rate limiting and breadcrumb tracking","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc"},"keywords":["error-tracking","grouping","rate-limiting","breadcrumbs","monitoring"],"author":"Ruzylo-cloud","license":"MIT","devDependencies":{"typescript":"^5.0.0"}}
