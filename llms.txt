@@ -1,7 +1,7 @@
 # error-tracker
 > Error capture and grouping with rate limiting and breadcrumb tracking
 
-Error capture with automatic grouping, rate limiting, and breadcrumb history. Identical logical errors (same message + normalized stack frame) are grouped together regardless of where they occur. ```typescript import { ErrorTracker, ConsoleTransport } from 'error-tracker';
+Error capture with automatic grouping, rate limiting, and breadcrumb history. Identical logical errors (same message + normalized stack frame) are grouped together regardless of where they occur.
 
 ## API
 - `Transport`
