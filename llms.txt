@@ -1,4 +1,6 @@
 # error-tracker
+
+Install: npm install @ferrow/error-tracker
 > Error capture and grouping with rate limiting and breadcrumb tracking
 
 Error capture with automatic grouping, rate limiting, and breadcrumb history. Identical logical errors (same message + normalized stack frame) are grouped together regardless of where they occur.
